@@ -13,11 +13,6 @@ Built using:
 - MySQL (Amazon RDS)
 - Docker (on EC2)
 
----
-
-## 🌐 Live Demo
-> http://18.234.164.35
-
 ## 🧱 Tech Stack
 - Node.js + Express backend
 - MySQL database (RDS)
